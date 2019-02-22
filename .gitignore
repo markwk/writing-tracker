@@ -1,0 +1,5 @@
+# Ignore Data
+*/data
+
+# Ignore Mac
+.DS_Store
