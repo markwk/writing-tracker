@@ -4,6 +4,7 @@
 This project has two main components: 
 
 * writing-tracker.sh: script to track daily changes in a directory of plaintext files 
+* report.py: simple python script to graphically plot latest stats with pandas and matplot
 * writing_data_analysis.ipynb: Jupyter notebook in Python to analysis of writing stats. 
 
 ### Writing Tracker with Bash and Git
