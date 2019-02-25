@@ -40,7 +40,7 @@ Optional:
 * Check that relevant output file. Ensure you are getting basic stats there. 
 * Add to the first line the following header: `date,current_datetime,total_files,files_changed,files_added,files_modified,files_deleted,files_renamed,words_added,words_deleted,words_duplicated,hashtags_added,hashtags_added,hashtags_deleted,refs_added,refs_deleted`
 * If the test was successful, remove the data added in the csv. 
-# Uncomment the line `git commit -m "$commit_msg"`
+* Uncomment the line `git commit -m "$commit_msg"`
 
 ##### Step 4: Automate with Cron
 
@@ -74,7 +74,5 @@ It was specifically designed to help track writing and notes files in markdown, 
 
 ### Creator
 
-Mark Koester 
-github.com/markwk
-markwkoester@gmail.com 
+[Mark Koester](http://www.markwk.com) | [www.markwk.com](http://www.markwk.com) | github.com/markwk | markwkoester@gmail.com 
 
