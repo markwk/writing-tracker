@@ -110,8 +110,10 @@ echo ${YESTERDAY}, ${CURRENTDATETIME}, $total_files, $files_changed, $files_adde
 # Commit Changes to Git with Custom Message
 commit_msg=("$YESTERDAY Daily Writing Stats: Words Added: $words_added, Files Added: $files_added")
 echo $commit_msg
-git commit -m "$commit_msg"
-#git push origin master
+# uncomment after testing
+# git commit -m "$commit_msg"
+# uncomment to then push changes to remote repo
+# git push origin master
 
 # Optional for Mac
 # uncomment to send a mac notification message
