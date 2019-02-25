@@ -64,7 +64,7 @@ Arguments are data.csv, days, output directory and name.
 
 ## writing_data_analysis.ipynb: Advanced data analysis and data visualization with Jupyter and Python
 
-[writing_data_analysis.ipynb](https://github.com/markwk/writing-tracker/blob/master/writing-data-analysis/writing_data_analysis.ipynb] provides more advanced data analysis on your writings and notes, including visualziations and comparisions. 
+[writing_data_analysis.ipynb](https://github.com/markwk/writing-tracker/blob/master/writing-data-analysis/writing_data_analysis.ipynb) provides more advanced data analysis on your writings and notes, including visualziations and comparisions. 
 
 ### Why was Writing Tracker created?
 
